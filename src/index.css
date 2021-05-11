@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: url('https://i.imgur.com/gTSHDkP.jpg');
+  background-size: cover;
+}
+
+@font-face {
+  font-family: 'Pixel';
+  src: url('font/Pixel-LCD-7.woff') format('woff');
+}
